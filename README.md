@@ -1,7 +1,7 @@
 # prime number generation
 
 Here is a screencast of the prime.py in action:
-
+        
 ![prime.py](https://raw.githubusercontent.com/jrhea/prime-numbers/master/images/prime_loops.gif)
 
 
